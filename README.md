@@ -1,5 +1,5 @@
 # ERGCN
-Multi-Modal Sarcasm Detection Based on Cross-Modal Composition of Inscribed Entity Relations (ICTAI23)
+Source code of Multi-Modal Sarcasm Detection Based on Cross-Modal Composition of Inscribed Entity Relations (ICTAI23)
 
 get_box:
 https://github.com/peteanderson80/bottom-up-attention
