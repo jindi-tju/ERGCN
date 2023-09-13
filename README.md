@@ -1,24 +1,6 @@
 # ERGCN
 Multi-Modal Sarcasm Detection Based on Cross-Modal Composition of Inscribed Entity Relations (ICTAI23)
 
-超参数：
---model_name : name of the model to run
---dataset : name of the processed dataset to use
---optimizer : name of optimizer to use
---initializer : name of initializer to use
---lr : learning rate
---dropout : dropout rate in the training procedure
---l2reg : L2 regularization
---num_epoch : number of epoch to run
---batch_size
---log_step : number of step for logging
---patience : patience of epoch for early stop
---device : GPU to use
---seed : random seed
---macro_f1 : whether to use Macro-F1
---pre : whether to perform predicting
-
-
 get_box:
 https://github.com/peteanderson80/bottom-up-attention
 但是工具包caffe文件配置太老旧了，踩坑无数换个机器不一定成功，因此推荐使用的docker环境直接进行的配置。
